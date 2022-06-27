@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " b ",
+    "bab",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rods/wooden"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "handle_cane:bamboo_cane_item"
+  }
+}

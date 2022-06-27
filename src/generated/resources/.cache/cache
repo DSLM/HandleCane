@@ -1,0 +1,6 @@
+c35d1723c1a845b4284defab23165774a8f2d1da assets/handle_cane/lang/en_us.json
+14a0862f2b8ff8bbd8d5ce9958da526f375c3387 assets/handle_cane/lang/zh_cn.json
+c2eaa229348265c85cd40dee84eb80c0b61289c6 data/minecraft/advancements/recipes/tools/bamboo_cane_item.json
+99fa9a2b5d1715119b107616e88dc4b069061221 data/minecraft/advancements/recipes/tools/quad_cane_item.json
+6844b8da6418a0b3a4254a1a74755b572ffca545 data/minecraft/recipes/bamboo_cane_item.json
+2621ced123d4f880b05991d5a8463cafec76d84e data/minecraft/recipes/quad_cane_item.json

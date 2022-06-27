@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    " a ",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "handle_cane:bamboo_cane_item"
+  }
+}
