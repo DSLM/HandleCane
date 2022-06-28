@@ -19,7 +19,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 
-version = '0.9.0'
+version = '0.9.1'
 group = 'com.dslm.handle_cane' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'handle_cane'
 

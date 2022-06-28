@@ -33,10 +33,10 @@ public class RecipeProvider extends net.minecraft.data.recipes.RecipeProvider
                 .unlockedBy("has_bamboo", has(Items.BAMBOO))
                 .save(consumer, "bamboo_cane_item");
         
-        ShapedRecipeBuilder.shaped(Register.BAMBOO_CANE_ITEM.get())
+        ShapedRecipeBuilder.shaped(Register.QUAD_CANE_ITEM.get())
                 .pattern(" b ")
                 .pattern("bab")
-                .pattern(" a ")
+                .pattern(" b ")
                 .define('a', sticks)
                 .define('b', planks)
                 .unlockedBy("has_sticks", has(sticks))

@@ -3,7 +3,7 @@
   "pattern": [
     " b ",
     "bab",
-    " a "
+    " b "
   ],
   "key": {
     "a": {
@@ -14,6 +14,6 @@
     }
   },
   "result": {
-    "item": "handle_cane:bamboo_cane_item"
+    "item": "handle_cane:quad_cane_item"
   }
 }
